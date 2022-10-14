@@ -2,6 +2,8 @@
   {
     "value": "#EA4335",
     "type": "color",
+    "filePath": "src/brands/brand#3/color.json",
+    "isSource": true,
     "original": {
       "value": "#EA4335",
       "type": "color"
@@ -23,6 +25,8 @@
   {
     "value": "#34A853",
     "type": "color",
+    "filePath": "src/brands/brand#3/color.json",
+    "isSource": true,
     "original": {
       "value": "#34A853",
       "type": "color"
@@ -43,6 +47,8 @@
   },
   {
     "value": "36px",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "36px"
     },
@@ -60,6 +66,8 @@
   },
   {
     "value": "72px",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "72px"
     },
@@ -77,6 +85,8 @@
   },
   {
     "value": "90px",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "90px"
     },
@@ -94,6 +104,8 @@
   },
   {
     "value": "120px",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "120px"
     },
@@ -111,6 +123,8 @@
   },
   {
     "value": "150px",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "150px"
     },
@@ -128,6 +142,8 @@
   },
   {
     "value": "50%",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "50%"
     },
@@ -145,6 +161,8 @@
   },
   {
     "value": "12%",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "12%"
     },
@@ -162,6 +180,8 @@
   },
   {
     "value": "#949494",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "{color.gray_40.value}"
     },
@@ -179,6 +199,8 @@
   },
   {
     "value": "#ff4000",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "#ff4000"
     },
@@ -196,6 +218,8 @@
   },
   {
     "value": "#ff4278",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "#ff4278"
     },
@@ -213,6 +237,8 @@
   },
   {
     "value": "#ff8201",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "#ff8201"
     },
@@ -230,6 +256,8 @@
   },
   {
     "value": "#ffc831",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "#ffc831"
     },
@@ -247,6 +275,8 @@
   },
   {
     "value": "#00caa8",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "#00caa8"
     },
@@ -264,6 +294,8 @@
   },
   {
     "value": "#17d417",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "#17d417"
     },
@@ -281,6 +313,8 @@
   },
   {
     "value": "#b500e3",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "#b500e3"
     },
@@ -298,6 +332,8 @@
   },
   {
     "value": "#1ab0ff",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "#1ab0ff"
     },
@@ -315,6 +351,8 @@
   },
   {
     "value": "#2b8cfc",
+    "filePath": "src/globals/avatar/index.json",
+    "isSource": true,
     "original": {
       "value": "#2b8cfc"
     },
@@ -332,6 +370,8 @@
   },
   {
     "value": "10px",
+    "filePath": "src/globals/base/index.json",
+    "isSource": true,
     "original": {
       "value": "10px"
     },
@@ -349,6 +389,8 @@
   },
   {
     "value": "10px",
+    "filePath": "src/globals/button/index.json",
+    "isSource": true,
     "original": {
       "value": "{base.border.radius.value}"
     },
@@ -366,6 +408,8 @@
   },
   {
     "value": "1px",
+    "filePath": "src/globals/button/index.json",
+    "isSource": true,
     "original": {
       "value": "1px"
     },
@@ -383,6 +427,8 @@
   },
   {
     "value": "48px",
+    "filePath": "src/platforms/ios/button.json",
+    "isSource": true,
     "original": {
       "value": "48px"
     },
@@ -398,6 +444,8 @@
   },
   {
     "value": "44px",
+    "filePath": "src/platforms/ios/button.json",
+    "isSource": true,
     "original": {
       "value": "44px"
     },
@@ -414,6 +462,8 @@
   {
     "value": "#EA4335",
     "type": "color",
+    "filePath": "src/globals/color/color-basic.json",
+    "isSource": true,
     "original": {
       "value": "{alias.color.brand.primary.value}",
       "type": "color"
@@ -431,6 +481,8 @@
   {
     "value": "#34A853",
     "type": "color",
+    "filePath": "src/globals/color/color-basic.json",
+    "isSource": true,
     "original": {
       "value": "{alias.color.brand.secondary.value}",
       "type": "color"
@@ -449,6 +501,8 @@
     "value": "#4a8c70",
     "type": "color",
     "comment": "look how this comment will appear in the generated files",
+    "filePath": "src/globals/color/color-basic.json",
+    "isSource": true,
     "original": {
       "value": "#4A8C70",
       "type": "color",
@@ -467,6 +521,8 @@
   {
     "value": "#14213d",
     "type": "color",
+    "filePath": "src/globals/color/color-basic.json",
+    "isSource": true,
     "original": {
       "value": "#14213D",
       "type": "color"
@@ -484,6 +540,8 @@
   {
     "value": "#fca311",
     "type": "color",
+    "filePath": "src/globals/color/color-basic.json",
+    "isSource": true,
     "original": {
       "value": "#FCA311",
       "type": "color"
@@ -501,6 +559,8 @@
   {
     "value": "#bf0603",
     "type": "color",
+    "filePath": "src/globals/color/color-basic.json",
+    "isSource": true,
     "original": {
       "value": "#BF0603",
       "type": "color"
@@ -518,6 +578,8 @@
   {
     "value": "#4a8c70",
     "type": "color",
+    "filePath": "src/globals/color/color-features.json",
+    "isSource": true,
     "original": {
       "value": "{color.green.value}",
       "type": "color"
@@ -537,6 +599,8 @@
   {
     "value": "#14213d",
     "type": "color",
+    "filePath": "src/globals/color/color-features.json",
+    "isSource": true,
     "original": {
       "value": "{color.blue.value}",
       "type": "color"
@@ -556,6 +620,8 @@
   {
     "value": "#fca311",
     "type": "color",
+    "filePath": "src/globals/color/color-features.json",
+    "isSource": true,
     "original": {
       "value": "{color.yellow.value}",
       "type": "color"
@@ -575,6 +641,8 @@
   {
     "value": "#bf0603",
     "type": "color",
+    "filePath": "src/globals/color/color-features.json",
+    "isSource": true,
     "original": {
       "value": "{color.red.value}",
       "type": "color"
@@ -594,6 +662,8 @@
   {
     "value": "#000000",
     "type": "color",
+    "filePath": "src/globals/color/color-grayscale.json",
+    "isSource": true,
     "original": {
       "value": "#000",
       "type": "color"
@@ -611,6 +681,8 @@
   {
     "value": "#6a6a6a",
     "type": "color",
+    "filePath": "src/globals/color/color-grayscale.json",
+    "isSource": true,
     "original": {
       "value": "#6a6a6a",
       "type": "color"
@@ -628,6 +700,8 @@
   {
     "value": "#949494",
     "type": "color",
+    "filePath": "src/globals/color/color-grayscale.json",
+    "isSource": true,
     "original": {
       "value": "#949494",
       "type": "color"
@@ -645,6 +719,8 @@
   {
     "value": "#c4c4c4",
     "type": "color",
+    "filePath": "src/globals/color/color-grayscale.json",
+    "isSource": true,
     "original": {
       "value": "#c4c4c4",
       "type": "color"
@@ -662,6 +738,8 @@
   {
     "value": "#e0e0e0",
     "type": "color",
+    "filePath": "src/globals/color/color-grayscale.json",
+    "isSource": true,
     "original": {
       "value": "#e0e0e0",
       "type": "color"
@@ -679,6 +757,8 @@
   {
     "value": "#f6f6f6",
     "type": "color",
+    "filePath": "src/globals/color/color-grayscale.json",
+    "isSource": true,
     "original": {
       "value": "#f6f6f6",
       "type": "color"
@@ -696,6 +776,8 @@
   {
     "value": "#EA4335",
     "type": "color",
+    "filePath": "src/globals/color/color-others.json",
+    "isSource": true,
     "original": {
       "value": "{color.primary.value}",
       "type": "color"
@@ -713,6 +795,8 @@
   {
     "value": "#bf0603",
     "type": "color",
+    "filePath": "src/globals/color/color-others.json",
+    "isSource": true,
     "original": {
       "value": "{color.red.value}",
       "type": "color"
@@ -730,6 +814,8 @@
   {
     "value": "#e0e0e0",
     "type": "color",
+    "filePath": "src/globals/color/color-others.json",
+    "isSource": true,
     "original": {
       "value": "{color.gray_12.value}",
       "type": "color"
@@ -747,6 +833,8 @@
   {
     "value": "#4a8c70",
     "type": "color",
+    "filePath": "src/globals/color/color-others.json",
+    "isSource": true,
     "original": {
       "value": "{color.green.value}",
       "type": "color"
@@ -766,6 +854,8 @@
   {
     "value": "#949494",
     "type": "color",
+    "filePath": "src/globals/color/color-others.json",
+    "isSource": true,
     "original": {
       "value": "{color.gray_40.value}",
       "type": "color"
@@ -785,6 +875,8 @@
   {
     "value": "#4867aa",
     "type": "color",
+    "filePath": "src/globals/color/color-socials.json",
+    "isSource": true,
     "original": {
       "value": "#4867aa",
       "type": "color"
@@ -804,6 +896,8 @@
   {
     "value": "#1ab0ff",
     "type": "color",
+    "filePath": "src/globals/color/color-socials.json",
+    "isSource": true,
     "original": {
       "value": "#1ab0ff",
       "type": "color"
@@ -823,6 +917,8 @@
   {
     "value": "#507299",
     "type": "color",
+    "filePath": "src/globals/color/color-socials.json",
+    "isSource": true,
     "original": {
       "value": "#507299",
       "type": "color"
@@ -842,6 +938,8 @@
   {
     "value": "#ff8201",
     "type": "color",
+    "filePath": "src/globals/color/color-socials.json",
+    "isSource": true,
     "original": {
       "value": "#ff8201",
       "type": "color"
@@ -861,6 +959,8 @@
   {
     "value": "#dc4a3d",
     "type": "color",
+    "filePath": "src/globals/color/color-socials.json",
+    "isSource": true,
     "original": {
       "value": "#dc4a3d",
       "type": "color"
@@ -880,6 +980,8 @@
   {
     "value": "#d93175",
     "type": "color",
+    "filePath": "src/globals/color/color-socials.json",
+    "isSource": true,
     "original": {
       "value": "#d93175",
       "type": "color"
@@ -899,6 +1001,8 @@
   {
     "value": "#0076b7",
     "type": "color",
+    "filePath": "src/globals/color/color-socials.json",
+    "isSource": true,
     "original": {
       "value": "#0076b7",
       "type": "color"
@@ -920,6 +1024,8 @@
     "documentation": {
       "comment": "Notice: this value should actually be 12px but we have to double check with the designers what is the impact of this change"
     },
+    "filePath": "src/globals/icon/index.json",
+    "isSource": true,
     "original": {
       "value": "10px",
       "documentation": {
@@ -940,6 +1046,8 @@
   },
   {
     "value": "16px",
+    "filePath": "src/globals/icon/index.json",
+    "isSource": true,
     "original": {
       "value": "16px"
     },
@@ -957,6 +1065,8 @@
   },
   {
     "value": "22px",
+    "filePath": "src/globals/icon/index.json",
+    "isSource": true,
     "original": {
       "value": "22px"
     },
@@ -974,6 +1084,8 @@
   },
   {
     "value": "30px",
+    "filePath": "src/globals/icon/index.json",
+    "isSource": true,
     "original": {
       "value": "30px"
     },
@@ -991,6 +1103,8 @@
   },
   {
     "value": "36px",
+    "filePath": "src/globals/icon/index.json",
+    "isSource": true,
     "original": {
       "value": "36px"
     },
@@ -1008,6 +1122,8 @@
   },
   {
     "value": "46px",
+    "filePath": "src/globals/icon/index.json",
+    "isSource": true,
     "original": {
       "value": "46px"
     },
@@ -1025,6 +1141,8 @@
   },
   {
     "value": "90px",
+    "filePath": "src/globals/icon/index.json",
+    "isSource": true,
     "original": {
       "value": "{avatar.size.md.value}"
     },
@@ -1042,6 +1160,8 @@
   },
   {
     "value": "120px",
+    "filePath": "src/globals/icon/index.json",
+    "isSource": true,
     "original": {
       "value": "{avatar.size.lg.value}"
     },
@@ -1059,6 +1179,8 @@
   },
   {
     "value": "#949494",
+    "filePath": "src/globals/input/index.json",
+    "isSource": true,
     "original": {
       "value": "{color.gray_40.value}"
     },
@@ -1074,6 +1196,8 @@
   },
   {
     "value": "24px",
+    "filePath": "src/globals/input/index.json",
+    "isSource": true,
     "original": {
       "value": "24px"
     },
@@ -1091,6 +1215,8 @@
   },
   {
     "value": "40px",
+    "filePath": "src/globals/input/index.json",
+    "isSource": true,
     "original": {
       "value": "40px"
     },
@@ -1108,6 +1234,8 @@
   },
   {
     "value": "24px",
+    "filePath": "src/globals/input/index.json",
+    "isSource": true,
     "original": {
       "value": "24px"
     },
@@ -1125,6 +1253,8 @@
   },
   {
     "value": "32px",
+    "filePath": "src/globals/input/index.json",
+    "isSource": true,
     "original": {
       "value": "32px"
     },
@@ -1142,6 +1272,8 @@
   },
   {
     "value": "48px",
+    "filePath": "src/platforms/ios/input.json",
+    "isSource": true,
     "original": {
       "value": "48px"
     },
@@ -1159,6 +1291,8 @@
   },
   {
     "value": "4px",
+    "filePath": "src/platforms/ios/input.json",
+    "isSource": true,
     "original": {
       "value": "4px"
     },
@@ -1176,6 +1310,8 @@
   },
   {
     "value": "32px",
+    "filePath": "src/platforms/ios/input.json",
+    "isSource": true,
     "original": {
       "value": "32px"
     },
@@ -1193,6 +1329,8 @@
   },
   {
     "value": "40px",
+    "filePath": "src/platforms/ios/input.json",
+    "isSource": true,
     "original": {
       "value": "40px"
     },
@@ -1210,6 +1348,8 @@
   },
   {
     "value": "24px",
+    "filePath": "src/platforms/ios/input.json",
+    "isSource": true,
     "original": {
       "value": "24px"
     },
@@ -1227,6 +1367,8 @@
   },
   {
     "value": "36px",
+    "filePath": "src/platforms/ios/input.json",
+    "isSource": true,
     "original": {
       "value": "36px"
     },
@@ -1244,6 +1386,8 @@
   },
   {
     "value": "32px",
+    "filePath": "src/platforms/ios/input.json",
+    "isSource": true,
     "original": {
       "value": "32px"
     },
@@ -1261,6 +1405,8 @@
   },
   {
     "value": "65px",
+    "filePath": "src/globals/login/index.json",
+    "isSource": true,
     "original": {
       "value": "65px"
     },
@@ -1278,6 +1424,8 @@
   },
   {
     "value": "90px",
+    "filePath": "src/globals/login/index.json",
+    "isSource": true,
     "original": {
       "value": "90px"
     },
@@ -1295,6 +1443,8 @@
   },
   {
     "value": "200px",
+    "filePath": "src/globals/login/index.json",
+    "isSource": true,
     "original": {
       "value": "200px"
     },
@@ -1312,6 +1462,8 @@
   },
   {
     "value": "58px",
+    "filePath": "src/platforms/ios/login.json",
+    "isSource": true,
     "original": {
       "value": "58px"
     },
@@ -1327,6 +1479,8 @@
   },
   {
     "value": "4px",
+    "filePath": "src/globals/spacing/index.json",
+    "isSource": true,
     "original": {
       "value": "4px"
     },
@@ -1342,6 +1496,8 @@
   },
   {
     "value": "8px",
+    "filePath": "src/globals/spacing/index.json",
+    "isSource": true,
     "original": {
       "value": "8px"
     },
@@ -1357,6 +1513,8 @@
   },
   {
     "value": "12px",
+    "filePath": "src/globals/spacing/index.json",
+    "isSource": true,
     "original": {
       "value": "12px"
     },
@@ -1372,6 +1530,8 @@
   },
   {
     "value": "16px",
+    "filePath": "src/globals/spacing/index.json",
+    "isSource": true,
     "original": {
       "value": "16px"
     },
@@ -1387,6 +1547,8 @@
   },
   {
     "value": "24px",
+    "filePath": "src/globals/spacing/index.json",
+    "isSource": true,
     "original": {
       "value": "24px"
     },
@@ -1402,6 +1564,8 @@
   },
   {
     "value": "32px",
+    "filePath": "src/globals/spacing/index.json",
+    "isSource": true,
     "original": {
       "value": "32px"
     },
@@ -1417,6 +1581,8 @@
   },
   {
     "value": "16px",
+    "filePath": "src/globals/spacing/index.json",
+    "isSource": true,
     "original": {
       "value": "{spacing.lg.value}"
     },
@@ -1433,6 +1599,8 @@
   {
     "value": "22px",
     "category": "typography",
+    "filePath": "src/globals/typography/index.json",
+    "isSource": true,
     "original": {
       "value": "22px",
       "category": "typography"
@@ -1450,6 +1618,8 @@
   {
     "value": "20px",
     "category": "typography",
+    "filePath": "src/globals/typography/index.json",
+    "isSource": true,
     "original": {
       "value": "20px",
       "category": "typography"
@@ -1467,6 +1637,8 @@
   {
     "value": "18px",
     "category": "typography",
+    "filePath": "src/globals/typography/index.json",
+    "isSource": true,
     "original": {
       "value": "18px",
       "category": "typography"
@@ -1484,6 +1656,8 @@
   {
     "value": "16px",
     "category": "typography",
+    "filePath": "src/globals/typography/index.json",
+    "isSource": true,
     "original": {
       "value": "16px",
       "category": "typography"
@@ -1501,6 +1675,8 @@
   {
     "value": "15px",
     "category": "typography",
+    "filePath": "src/globals/typography/index.json",
+    "isSource": true,
     "original": {
       "value": "15px",
       "category": "typography"
@@ -1518,6 +1694,8 @@
   {
     "value": "28px",
     "category": "typography",
+    "filePath": "src/globals/typography/index.json",
+    "isSource": true,
     "original": {
       "value": "28px",
       "category": "typography"
@@ -1535,6 +1713,8 @@
   {
     "value": "25px",
     "category": "typography",
+    "filePath": "src/globals/typography/index.json",
+    "isSource": true,
     "original": {
       "value": "25px",
       "category": "typography"
@@ -1552,6 +1732,8 @@
   {
     "value": "24px",
     "category": "typography",
+    "filePath": "src/globals/typography/index.json",
+    "isSource": true,
     "original": {
       "value": "24px",
       "category": "typography"
@@ -1569,6 +1751,8 @@
   {
     "value": "22px",
     "category": "typography",
+    "filePath": "src/globals/typography/index.json",
+    "isSource": true,
     "original": {
       "value": "22px",
       "category": "typography"
@@ -1586,6 +1770,8 @@
   {
     "value": "20px",
     "category": "typography",
+    "filePath": "src/globals/typography/index.json",
+    "isSource": true,
     "original": {
       "value": "20px",
       "category": "typography"
@@ -1603,6 +1789,8 @@
   {
     "value": "system",
     "category": "typography",
+    "filePath": "src/platforms/ios/typography.json",
+    "isSource": true,
     "original": {
       "value": "system",
       "category": "typography"
@@ -1620,6 +1808,8 @@
   {
     "value": "UniNeue",
     "category": "typography",
+    "filePath": "src/platforms/ios/typography.json",
+    "isSource": true,
     "original": {
       "value": "UniNeue",
       "category": "typography"
