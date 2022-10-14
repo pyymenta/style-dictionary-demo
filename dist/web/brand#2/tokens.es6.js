@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue Sep 18 2018 18:43:06 GMT+0100 (BST)
+ * Generated on Fri, 14 Oct 2022 15:01:40 GMT
  */
 
 export const TOKEN_ALIAS_COLOR_BRAND_PRIMARY = "#1DA1F2";
